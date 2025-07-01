@@ -15,7 +15,7 @@
 Clone the repository and install locally:
 
 ```bash
-git clone https://github.com/yourusername/flask-deployer.git
+git clone https://github.com/hestonhamilton/flask-deployer.git
 cd flask-deployer
 python3 -m venv venv
 source venv/bin/activate
